@@ -1,7 +1,7 @@
 aPackageInfo = [
 	:name = "The ringQrCode Package",
 	:description = "Our ringQrCode package using the Ring programming language",
-	:folder = "ringQrCode",
+	:folder = "ringQr",
 	:developer = "mohannad-alayash",
 	:email = "mohannadazazalayash@gmail.com",
 	:license = "MIT License",
