@@ -1,6 +1,6 @@
 load 'codegenlib.ring'
 if iswindows()
-	loadlib("RingQrCode.dll")
+	loadlib("ring_qr.dll")
 ok
 
 func readfromimage pImage 
