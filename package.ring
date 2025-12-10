@@ -28,7 +28,8 @@ aPackageInfo = [
 		"bin/ring_qr.dll",
 		"bin/load/ringQr.ring",
 		"samples/ringQr/test.ring",
-		'extensions/ringQr/ringQr.ring'
+		'extensions/ringQr/ringQr.ring',
+		'extensions/ringQr/ringQrFunctions.ring'
 	],
 	:windowsfiles = 	[
 
