@@ -1,5 +1,5 @@
 load 'guilib.ring'
-load 'ringQr.ring'
+load '../../extensions/ringQr/ringQr.ring'
 img = genqrcode("http://mohannad-aldulaimi.github.io")
 
 ? readfromimage(img.toImage() )
