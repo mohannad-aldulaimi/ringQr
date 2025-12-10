@@ -1,7 +1,7 @@
 load 'codegenlib.ring'
-
-loadlib("RingQrCode.dll")
-
+if iswindows()
+	loadlib("RingQrCode.dll")
+ok
 
 func readfromimage pImage 
 	return ring_readfromimage( getobjectpointerfromringobject(pImage) )
