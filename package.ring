@@ -22,13 +22,13 @@ aPackageInfo = [
 	],
 	:files = 	[
 		"lib.ring",
-		"main.ring",
-		'ringQr.ring'
-	], 
+		"main.ring"
+	],
 	:ringfolderfiles = 	[
 		"bin/RingQrCode.dll",
 		"bin/load/ringQr.ring",
-		"samples/ringQr/test.ring"
+		"samples/ringQr/test.ring",
+		'extensions/ringQr/ringQr.ring'
 	],
 	:windowsfiles = 	[
 

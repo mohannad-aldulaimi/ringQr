@@ -1,1 +1,1 @@
-load '../../tools/ringpm/packages/ringQr/ringQr.ring'
+load '../../extensions/ringQr/ringQr.ring'
