@@ -23,10 +23,10 @@ aPackageInfo = [
 	:files = 	[
 		"lib.ring",
 		"main.ring",
-		"RingQrCode.dll",
 		'ringQr.ring'
-	],
+	], 
 	:ringfolderfiles = 	[
+		"bin/RingQrCode.dll",
 		"bin/load/ringQr.ring",
 		"samples/ringQr/test.ring"
 	],
